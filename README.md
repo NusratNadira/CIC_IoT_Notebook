@@ -1,0 +1,1 @@
+In this notebook, I implement the data preprocessing method and evaluate the accuracy, loss, and validity of the CIC_IoT_2023 dataset using various classification models, including Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Logistic Regression, and Random Forest. The objective is to compare the performance of these models based on their accuracy.
